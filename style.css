@@ -1,5 +1,5 @@
 .navbar {
-  background-color: rgb(49, 30, 56);
+  background-color: rgb(87, 62, 96);
   padding: 1em 2em;
   display: flex;
   justify-content: space-between;
@@ -8,13 +8,13 @@
 
 /* 
 .navbar-left img {
-  height: 35px;
+height: 35px;
 }
-  */
+*/
 .navbar-right {
   list-style: none;
   display: flex;
-  gap: 2em;
+  gap: 2.3em;
   margin: 0;
   padding: 0;
 }
@@ -26,11 +26,9 @@
 }
 
 .navbar-right a:hover {
-  color: #aaaaff;
+  color: #bba9d9;
 }
 
-/*
 .corner {
 
 }
-*/
